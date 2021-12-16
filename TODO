@@ -1,0 +1,13 @@
+- atualizar comentarios quando faz novo upload
+
+
+Publicar web app:
+npm run build
+
+firebase init
+firebase deploy --only hosting
+
+Criar React app:
+npx create-react-app my-app
+cd my-app
+npm start
